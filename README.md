@@ -7,4 +7,4 @@ Its small coding challenge, to send OTP code as sms using third party sms servic
     </embed>
 </object>
 
-![alt text](https://drive.google.com/file/d/1F1uvs2cTtNVz5PBOWeE0bbzxEXmOv-7_/view)
+![alt text](https://docs.google.com/uc?id=1F1uvs2cTtNVz5PBOWeE0bbzxEXmOv-7_)
